@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExerciceDocumentation</name>
+    </assembly>
+    <members>
+        <member name="T:ExerciceDocumentation.Chien">
+            <summary>
+            cette classe sert a créer des chiens
+            </summary>
+        </member>
+        <member name="M:ExerciceDocumentation.Chien.#ctor(System.Int32,System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            un chien as un âge, un nom, une couleur, une race, et un sexe
+            </summary>
+            <param name="age"> l'age est un nom entier</param>
+            <param name="name"></param>
+            <param name="color"></param>
+            <param name="race"></param>
+            <param name="sex"> 0 pour un male et 1 pour une femelle</param>
+        </member>
+        <member name="M:ExerciceDocumentation.Chien.getName">
+            <summary>
+            retourne le nom du chien
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ExerciceDocumentation.Chien.GrowOlder(System.Int32)">
+            <summary>
+            permet de faire viellir un chien de X années
+            </summary>
+            <param name="age"> le nombre d'anner pour viellir le chien</param>
+        </member>
+    </members>
+</doc>

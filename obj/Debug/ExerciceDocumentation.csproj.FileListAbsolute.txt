@@ -1,0 +1,7 @@
+C:\Users\1933843\Desktop\ExerciceDocumentation\bin\Debug\ExerciceDocumentation.dll
+C:\Users\1933843\Desktop\ExerciceDocumentation\bin\Debug\ExerciceDocumentation.pdb
+C:\Users\1933843\Desktop\ExerciceDocumentation\bin\Debug\README.xml
+C:\Users\1933843\Desktop\ExerciceDocumentation\obj\Debug\ExerciceDocumentation.csprojAssemblyReference.cache
+C:\Users\1933843\Desktop\ExerciceDocumentation\obj\Debug\ExerciceDocumentation.csproj.CoreCompileInputs.cache
+C:\Users\1933843\Desktop\ExerciceDocumentation\obj\Debug\ExerciceDocumentation.dll
+C:\Users\1933843\Desktop\ExerciceDocumentation\obj\Debug\ExerciceDocumentation.pdb
